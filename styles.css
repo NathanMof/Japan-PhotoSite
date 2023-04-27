@@ -17,3 +17,8 @@ img {
 body {
     line-height: 1;
 }
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
